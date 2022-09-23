@@ -1,2 +1,2 @@
 # Bongo-Cat
-College project
+Java OOP College project
