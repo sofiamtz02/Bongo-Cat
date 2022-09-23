@@ -3,7 +3,7 @@ Música:
 -> https://www.youtube.com/watch?v=dXfHn5CtH7U
 -> https://www.youtube.com/watch?v=svqRPa42zt4
 -> https://www.youtube.com/watch?v=CPUKGFVrQvE
--> https://www.youtube.com/watch?v=IPLk4xJjOaI --> musica hecha con bloques de minecraft
+-> https://www.youtube.com/watch?v=IPLk4xJjOaI
 */
 
 import java.util.*;
@@ -47,7 +47,6 @@ public class Animacion{
 
 	//---------------- Texto ---------------------
 
-		// JTextArea t1 = new JTextArea("     ༺ Seleccione un instrumento ༻   ");
 		JTextArea t1 = new JTextArea("     \u0F3A Seleccione un instrumento \u0F3B   ");
 
 			t1.setBounds(84,285,200,20);
